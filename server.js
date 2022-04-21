@@ -4,6 +4,7 @@ var jsonfile = require('./json/sample2.json')
 
 app.get("/", (req,res) =>{
     console.log(`test`)
+    res.send('test');
 })
 
 app.get("/:id", (req,res) =>{
