@@ -2,9 +2,13 @@
   "name": "project",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
+  "engines": {
+    "node": "14.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "Start": "node server.js",
     "devStart": "nodemon server.js"
   },
   "keywords": [],
