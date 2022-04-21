@@ -1,0 +1,100 @@
+{
+	"report_cutoffdate": "2022-02-15",
+	"range_start_date": "2021-12-23",
+	"usage_hist": [{
+		"ship_used_date": "2022-02-06",
+		"UsedWB": 1609
+	},
+	{
+		"ship_used_date": "2022-02-14",
+		"UsedWB": 730
+	},
+	{
+		"ship_used_date": "2022-02-02",
+		"UsedWB": 98
+	},
+	{
+		"ship_used_date": "2022-02-11",
+		"UsedWB": 13586
+	},
+	{
+		"ship_used_date": "2022-02-09",
+		"UsedWB": 11171
+	},
+	{
+		"ship_used_date": "2022-02-04",
+		"UsedWB": 742
+	},
+	{
+		"ship_used_date": "2022-02-05",
+		"UsedWB": 384
+	},
+	{
+		"ship_used_date": "2022-02-03",
+		"UsedWB": 1594
+	},
+	{
+		"ship_used_date": "2022-01-28",
+		"UsedWB": 239
+	},
+	{
+		"ship_used_date": "2022-02-12",
+		"UsedWB": 4762
+	},
+	{
+		"ship_used_date": "2022-01-30",
+		"UsedWB": 1953
+	},
+	{
+		"ship_used_date": "2022-02-07",
+		"UsedWB": 11070
+	},
+	{
+		"ship_used_date": "2022-01-29",
+		"UsedWB": 6449
+	},
+	{
+		"ship_used_date": "2022-02-08",
+		"UsedWB": 10539
+	},
+	{
+		"ship_used_date": "2022-02-01",
+		"UsedWB": 17
+	},
+	{
+		"ship_used_date": "2022-01-31",
+		"UsedWB": 54
+	},
+	{
+		"ship_used_date": "2022-02-10",
+		"UsedWB": 12096
+	},
+	{
+		"ship_used_date": "2022-02-13",
+		"UsedWB": 664
+	}],
+	"projected_day": [{
+		"ship_used_date": "2022-02-16",
+		"UsedWB": 4319
+	},
+	{
+		"ship_used_date": "2022-02-17",
+		"UsedWB": 4319
+	},
+	{
+		"ship_used_date": "2022-02-18",
+		"UsedWB": 4319
+	},
+	{
+		"ship_used_date": "2022-02-19",
+		"UsedWB": 4319
+	},
+	{
+		"ship_used_date": "2022-02-20",
+		"UsedWB": 4319
+	},
+	{
+		"ship_used_date": "2022-02-21",
+		"UsedWB": 4319
+	}]
+}

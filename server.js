@@ -1,0 +1,14 @@
+const express = require('express')
+const app = express()
+var jsonfile = require('../project/sample2.json')
+
+app.get("/", (req,res) =>{
+    console.log(`test`)
+})
+
+app.get("/:id", (req,res) =>{
+    console.log(`${req.params.id}`)
+    res.json(jsonfile)
+})
+app.listen(3000)
+
