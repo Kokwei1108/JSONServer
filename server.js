@@ -1,6 +1,6 @@
 const express = require('express')
 const app = express()
-var jsonfile = require('../project/sample2.json')
+var jsonfile = require('./json/sample2.json')
 
 app.get("/", (req,res) =>{
     console.log(`test`)
